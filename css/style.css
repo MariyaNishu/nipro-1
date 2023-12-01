@@ -1,0 +1,110 @@
+/*common start*/
+body{
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: var(--ash);
+}
+/*common end*/ 
+
+
+/*header start*/
+header {
+    padding: 15px 0;
+    background-color: white;
+}
+.header{}
+.logo{
+	font-size: 35px;
+}
+.menu{}
+.menu ul li a {
+    margin-right: 15px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #8e8e8e;
+    border-bottom: 2px solid transparent;
+    text-transform: uppercase;
+}
+.icon{
+	padding-left: 10px;
+	margin-top: 8px;
+	color: #8e8e8e;
+}
+/*header end*/
+/*banner start*/
+.banner{
+	padding-top: 250px;
+	padding-bottom: 300px;
+	background-image: url(../images/nipro.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.btn_com_btn{
+	color: white;
+}
+.team{}
+.team slider{}
+.carousel-item{}
+.tale{}
+h2{
+	font-size: 60px;
+	color: white;
+}
+p{
+	margin-top: 30px;
+	font-size: 17px;
+	color: white;
+}
+.learn_btn{
+	padding-top: 50px;
+	color: white;
+}
+.previous{
+	text-align: center;
+}
+/*button start*/
+/*button end*/
+/*banner end*/
+/*text start*/
+.text{
+	margin-top: 40px;
+	text-align: center;
+	color: #333333;
+}
+.paragraph{
+	margin-top: 35px;
+    font-size: 16px;
+    color: #8e8e8e;
+}
+/*text end*/
+/*box start*/
+.bx_single{
+	margin-top: 100px;
+	text-align: center;
+    padding: 61px 100px 40px;
+    border: 1px solid #8e8e8e;
+}
+.bx_icon{ 
+    margin: -92px auto 40px;
+    font-size: 60px;
+    width: 65px;
+    height: 60px;
+    background-color: #ffffff;
+}
+.bx_h2 {
+    font-size: 25px;
+    color: #333333;
+}
+.bx_span{
+    display: inline-block;
+    height: 2px;
+    width: 50px;
+    background-color: #8e8e8e;
+}
+.bx_p{
+	color: #8e8e8e;
+}
+.bx_more_btn{}
+/*box end*/
